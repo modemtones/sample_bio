@@ -4,6 +4,7 @@ body {
   background-color: #efeee7;
   color: #333333;
   font-family: "Georgia", "Times New Roman", Times, serif;
+  line-height: 150%;
 }
 
 header {
@@ -22,6 +23,10 @@ h2 {
   font-size: 24px;
 }
 
+a {
+  color: #d21034;
+}
+
 .container {
   margin: 0 auto;
   width: 1024px;
@@ -35,6 +40,7 @@ h2 {
 #contact-info {
   float: left;
   width: 30%;
+  font-size: 16px;
 }
 
 #bio-image {
